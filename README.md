@@ -16,7 +16,9 @@ see [stringr](https://stringr.tidyverse.org),
 
 The goal of regexcite is to make regular expressions more exciting! It
 provides convenience functions to make some common tasks with string
-manipulation and regular expressions a bit easier.
+manipulation and regular expressions a bit easier. 
+We have also added Continuous integration and deployment to this package 
+as a demonstration of how this can work for R packages.
 
 ## Installation
 
