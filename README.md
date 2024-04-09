@@ -12,6 +12,7 @@ see [stringr](https://stringr.tidyverse.org),
 # regexcite
 
 <!-- badges: start -->
+[![codecov](https://codecov.io/gh/ttimbers/regexcite-ci-cd/graph/badge.svg?token=R45F1CHS4A)](https://codecov.io/gh/ttimbers/regexcite-ci-cd)
 <!-- badges: end -->
 
 The goal of regexcite is to make regular expressions more exciting! It
